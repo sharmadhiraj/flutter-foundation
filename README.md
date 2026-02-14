@@ -1,7 +1,6 @@
 # Flutter Foundation
 
-A minimal, structured Flutter base for real-world production apps, continuously evolving with
-practical improvements.
+A minimal, structured Flutter base for production apps, continuously improved.
 
 ## *Work in progress — usage instructions coming soon.*
 
